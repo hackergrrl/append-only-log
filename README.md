@@ -5,6 +5,10 @@
 Like [abstract-blob-store](https://github.com/maxogden/abstract-blob-store), but
 for append-only logs.
 
+## STATUS
+
+Mad science work-in-progress! :dragon_face:
+
 ## Usage
 
 To use the test suite from this module, use `require('append-only-log/tests')`.
