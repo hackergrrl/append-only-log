@@ -1,7 +1,7 @@
 {
   "name": "append-only-log",
   "description": "append only log interface",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/noffle/append-only-log.git"
   },
