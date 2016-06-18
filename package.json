@@ -15,5 +15,13 @@
   "devDependencies": {
     "tape": "*"
   },
+  "keywords": [
+    "append",
+    "only",
+    "append-only",
+    "log",
+    "interface",
+    "abstract"
+  ],
   "license": "ISC"
 }
