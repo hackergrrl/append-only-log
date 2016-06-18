@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "node tests/run.js"
   },
   "dependencies": {
     "from2": "^2.1.1"
