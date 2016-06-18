@@ -1,0 +1,19 @@
+{
+  "name": "append-only-log",
+  "description": "append only log interface",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/noffle/append-only-log.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "from2": "^2.1.1"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "license": "ISC"
+}
